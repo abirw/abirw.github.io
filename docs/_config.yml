@@ -30,7 +30,7 @@ baseurl: /docs     # place folder name if the site is served in a subfolder
 github_username:  abirw
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
