@@ -1,1 +1,3 @@
 _site
+*.json
+*.DS_Store
