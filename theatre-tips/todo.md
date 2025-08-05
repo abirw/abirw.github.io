@@ -1,0 +1,6 @@
+[[youth ticket programmes]]
+[[theatres with group bookings]]
+[[lottery programmes]]
+[[rush tickets]]
+[[other on the day discounts]]
+[[things to look out for]]
